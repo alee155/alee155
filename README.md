@@ -14,7 +14,7 @@
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-tahir-846948294).
 
 ## 😄 Pronouns: 
-- He/Him
+- Alee
 
 ## ⚡ Fun fact: 
 - I enjoy photography and capturing moments when I’m not coding!
