@@ -1,11 +1,11 @@
-👋 Hey there! I'm Muhammad Al Tahir  
+👋 Hey there! **I'm Muhammad Al Tahir** 
 
 🚀 Flutter Developer | Software Engineer  
 
 I’m a **Flutter Developer & Software Engineer** from **Pakistan**, passionate about building modern, scalable, and user-friendly mobile applications.  
-Currently, I’m working at **Devsouq Technologies**, where I’ve been involved in creating products across diverse domains — including **AI-powered solutions**, **ride-hailing**, **e-commerce**, **medical**, **social**, and **gaming** applications.  
+Currently, I’m working at **Devsouq Technologies**, where I’ve been involved in creating products across diverse domains — including **AI-powered solutions in Flutter Apps**, **ride-hailing**, **e-commerce**, **medical**, **social**, and **gaming** applications.  
 
-I’ve also had the opportunity to work with multiple clients through **freelance** and **outsourced projects**, including collaborations with **Tech Consultivo**.  
+I’ve also had the opportunity to work with multiple clients through **freelance** and **outsourced projects**,
 These experiences have helped me understand different business requirements, improve communication, and deliver production-ready apps that solve real problems.  
 
 ---
