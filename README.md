@@ -1,56 +1,42 @@
-👋 Hey there! **I'm Muhammad Al Tahir** 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Muhammad%20Ali%20Tahir&fontSize=40&fontColor=ffffff" />
+</p>
 
-🚀 Flutter Developer | Software Engineer  
 
-I’m a **Flutter Developer & Software Engineer** from **Pakistan**, passionate about building modern, scalable, and user-friendly mobile applications.  
-Currently, I’m working at **Devsouq Technologies**, where I’ve been involved in creating products across diverse domains — including **AI-powered solutions in Flutter Apps**, **ride-hailing**, **e-commerce**, **medical**, **social**, and **gaming** applications.  
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: alee155abbas@gmail.com
+- 😄 My Portfolio : https://muhammadalitahir.vercel.app/
+- ⚡ Fun fact: I'm comming to teen
 
-I’ve also had the opportunity to work with multiple clients through **freelance** and **outsourced projects**,
-These experiences have helped me understand different business requirements, improve communication, and deliver production-ready apps that solve real problems.  
-
----
-
-### 💡 What I Do
-
-- 📱 Cross-platform Mobile App Development (Android & iOS)  
-- 💬 Real-time Communication (Live Streaming, Video/Audio Calling, Chat using ZEGOCLOUD & Agora)  
-- 🔥 Firebase Integration (Auth, Firestore, Cloud Functions, Push Notifications)  
-- ⚙️ REST & GraphQL API Integration  
-- 🎨 Responsive UI, Animations & Clean Architecture  
-- 🚀 App Deployment (Google Play Store & Apple App Store)  
-- 💻 Version Control & CI/CD Pipelines (Git, GitHub)  
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,graphql,git,github,sqlite,figma,html,java,js,mysql,sublime,vscode,onesignal&perline=10)](https://skillicons.dev)
 
 ---
-
-### 🧠 Tech Stack
-
-| Area | Tools & Technologies |
-|------|----------------------|
-| **Languages** | Dart |
-| **Framework** | Flutter |
-| **State Management** | Provider, GetX |
-| **Backend & Cloud** | Firebase, Supabase |
-| **Database** | Firestore, SQLite, Shared Preferences |
-| **Real-time Services** | ZEGOCLOUD, Agora.io, WebSockets |
-| **Version Control** | Git, GitHub |
-| **Payments & SDKs** | Stripe, OneSignal, Google Ads |
-| **Architecture** | MVC, Clean Code, Reusable Components |
-
----
-
 ### 🎯 Career Objective  
 
 To continue growing as a **Flutter Developer** by creating innovative and high-performance mobile solutions that deliver real value to users and businesses. I aim to explore new technologies, collaborate with creative teams, and build products that make a lasting impact.  
 
 ---
 
-### 📫 Connect With Me  
 
-- 💼 [Email](alee155abbas@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-ali-tahir-846948294).
-- 🧑‍💻 [GitHub](https://github.com/alee155)  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/alee155">
+    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ali-tahir-846948294">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:alee155abbas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://wa.me/923377452385">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+</div>
 
----
 
 > “Code with purpose, design with empathy, and build with consistency.”  
 
