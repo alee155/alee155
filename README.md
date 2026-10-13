@@ -1,153 +1,80 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=200&section=header&text=Muhammad%20Ali%20Tahir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=58&descSize=16&descColor=c7d2fe&animation=fadeIn" />
-</p>
+# Muhammad Ali Tahir
 
-<p align="center">
-  <a href="https://muhammadalitahir.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-ali-tahir-846948294" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/alee155" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:alee155abbas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/923377452385" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+**Flutter Developer & Software Engineer** at DevSouq Technologies, based in Lahore, Pakistan.
 
-<br/>
+I build cross-platform mobile apps with Flutter and Dart, from the first screen to a signed release on the Play Store. I care about code that stays readable as an app grows: feature-first architecture, state that is easy to test, and interfaces that feel finished.
+
+[Portfolio](https://muhammadalitahir.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-ali-tahir-846948294) · [Email](mailto:alee155abbas@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## What I work on
 
-```dart
-class MuhammadAliTahir extends FlutterDeveloper {
+- **Flutter and Dart.** Production apps with Riverpod, BLoC, Provider and GetX; custom UI, animation, light and dark themes, localization.
+- **Architecture.** Feature-first Clean Architecture (domain, data, presentation), repository pattern, thin widgets and controllers that are straightforward to unit test.
+- **Native Android when Dart isn't enough.** Kotlin platform channels for exact alarms, Do Not Disturb and system integrations.
+- **Backend integration.** REST with Dio, Firebase (Auth, Firestore, Storage, FCM), Supabase, secure token storage, deep links and Android App Links.
+- **Shipping.** Automated tests, GitHub Actions pipelines and signed Android release builds.
 
-  final String name      = "Muhammad Ali Tahir";
-  final String role      = "Flutter Developer";
-  final String focus     = "Cross-platform Mobile Apps";
-  final String learning  = "Backend Development";
-  final String email     = "alee155abbas@gmail.com";
-  final String portfolio = "https://muhammadalitahir.vercel.app/";
+## Featured projects
 
-  List<String> get currentlyBuilding => [
-    "Pixel-perfect Flutter UIs",
-    "Scalable mobile architectures",
-    "Real-world backend integrations",
-  ];
+### Deen Companion: Quran & Athan
 
-  List<String> get passions => [
-    "Clean Code",
-    "Beautiful Animations",
-    "Outstanding User Experience",
-  ];
+[Google Play](https://play.google.com/store/apps/details?id=com.devsouq.deen_companion.app) · [Source](https://github.com/alee155/deen-companion)
 
-  String get funFact => "I turn ☕ into beautiful cross-platform apps.";
+<img src="assets/deen-companion.jpg" alt="Deen Companion screens: home, prayer times, Quran, duas, Zakat calculator and audio player" width="100%">
 
-  @override
-  String toString() => "Ask me anything about Flutter — always happy to help!";
-}
-```
+A daily worship companion: Quran with audio recitation, prayer times with reliable reminders, Qibla, Hadith, duas, a Hijri calendar and a Zakat calculator. Live on Google Play.
 
----
+- Feature-first Clean Architecture on Flutter and Riverpod, covered by 1,100+ automated tests.
+- Native Kotlin for exact prayer alarms and Do Not Disturb windows, because Dart alone can't do these reliably.
+- Recent work: accounts with email verification, groups with invite links (Android App Links), and a camera, crop and compression flow for sharing snaps.
+- GitHub Actions pipeline: checks on every push, signed Android bundles only for release commits.
 
-## 🚀 What I Bring to the Table
+`Flutter` `Riverpod` `go_router` `Dio` `Hive` `Kotlin` `GitHub Actions`
 
-<table>
-<tr>
-<td width="50%">
+### Vision Lab
 
-**📱 Mobile Development**
-- Cross-platform apps with **Flutter & Dart**
-- Clean architecture (BLoC, Riverpod, Provider)
-- Custom animations & pixel-perfect UI
-- Responsive layouts & performance tuning
-- Streaming, Video/Audio callings
+[Source](https://github.com/alee155/vision-lab-flutter)
 
-</td>
-<td width="50%">
+A Flutter playground for Google ML Kit's on-device vision models: face detection, object detection with tracking, digital ink recognition and image labeling. Everything runs locally and no frame leaves the device.
 
-**⚙️ Backend & Integrations**
-- **Firebase** — Auth, Firestore, Storage, FCM
-- **Supabase** — real-time database & auth
-- **REST APIs** integrations
-- Push notifications
-- Flutter Local Notifications
+### AI Meal Planner
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+[Source](https://github.com/alee155/Ai_meal_planner)
 
-**🎨 UI/UX**
-- Figma to Flutter pixel-perfect handoff
-- Custom painters & hero animations
-- Material 3 & custom design systems
-- Dark/light theme implementation
+AI-assisted meal planning and nutrition tracking, with localization and light and dark themes, built with GetX.
 
-</td>
-<td width="50%">
+## Toolbox
 
-**🛠️ Dev Tooling**
-- Git & GitHub for version control
-- SQLite & MySQL for local/remote storage
-- VS Code power user
-- Agile & collaborative workflows
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,graphql,git,github,sqlite,figma,html,java,js,mysql,vscode&perline=7"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,supabase,sqlite,figma,git,githubactions,androidstudio&perline=10" alt="Flutter, Dart, Kotlin, Firebase, Supabase, SQLite, Figma, Git, GitHub Actions, Android Studio">
 </p>
 
----
+| | |
+| --- | --- |
+| **Mobile** | Flutter, Dart, Kotlin (platform channels), Material 3 |
+| **State management** | Riverpod, BLoC, Provider, GetX |
+| **Data and backend** | REST (Dio), Firebase, Supabase, GraphQL, SQLite, Hive, MySQL |
+| **Design** | Figma to Flutter, custom painters, animation, theming |
+| **Workflow** | Git, GitHub Actions, unit and widget testing, Android Studio, VS Code |
 
-## 📊 GitHub Stats
+## GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alee155&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=0ea5e9&text_color=c7d2fe"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alee155&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c7d2fe&langs_count=8"/>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alee155&show_icons=true&hide=stars,issues&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=F08232&icon_color=F08232&text_color=c9d1d9&hide_rank=true">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alee155&show_icons=true&hide=stars,issues&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=D9650F&icon_color=D9650F&text_color=24292f&hide_rank=true" height="150">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alee155&layout=compact&langs_count=5&hide_border=true&bg_color=0d1117&title_color=F08232&text_color=c9d1d9">
+    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alee155&layout=compact&langs_count=5&hide_border=true&bg_color=ffffff&title_color=D9650F&text_color=24292f" height="150">
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alee155&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=0ea5e9&currStreakLabel=c7d2fe&sideLabels=c7d2fe&dates=6b7280"/>
-</p>
+## Now
 
+- Building: Deen Companion, adding accounts, groups and snaps.
+- Learning: backend development, to connect the apps I build to the services behind them.
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alee155&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=0ea5e9&point=c7d2fe&area=true"/>
-</p>
-
----
-
-## 🎯 Career Objective
-
-I'm a **Flutter Developer** passionate about crafting high-performance, beautiful mobile experiences. My goal is to build products that solve real problems — through clean architecture, thoughtful UI, and continuous learning. Currently leveling up in **backend development** to become a more complete, full-stack mobile engineer.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alee155&label=Profile+Views&color=6366f1&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <i>"Code with purpose, design with empathy, build with consistency."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=120&section=footer"/>
-</p>
+If you have a Flutter project, a role or a question, [email me](mailto:alee155abbas@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-tahir-846948294).
